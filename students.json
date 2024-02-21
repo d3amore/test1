@@ -1,0 +1,72 @@
+[
+    {
+        "id": "student1",
+        "name": "Adam",
+        "bio": "Hypnotizování svých obětí pomocí CSS gradientů, peníze. Adam, také známý v podsvětí pod přezdívkou jako Maestro CSS, unáší mladé lidi za účelem zvětšování jeho bohatství. Skrýval se ve stínech v temných uličkám. Poté už šel cítit pouze jeho chladný pohled, pronikající tmou jako noční můra pod kloboukem s nepřehlédnutým okrajem barev CSS gradientů. Kromě unášení lidí, také obchodoval se zbraněmi.<br>Zadržen byl před pěti lety zásahovou jednotkou, co čekala před jeho podzemním komplexem. Po pouhém týdnu ve vězení se mu ale podařilo uprchnout a od té doby nebyl spatřen.",
+        "photo1": "pics/adam1.jpg",
+        "photo2": "pics/adam2.jpg"
+    },
+    {
+        "id": "student2",
+        "name": "Matěj",
+        "bio": "Info o Matějovi",
+        "photo1": "pics/matej1.jpg",
+        "photo2": "pics/matej2.jpg"
+    },
+    {
+        "id": "student3",
+        "name": "Illia",
+        "bio": "Tajemný japonský zločinec. Začínal kariéru s krádeží elektronických peněženek u důchodců. Je obviněn z krádeže peněz z penzijního fondu. Peníze určené pro seniory převedl na svůj vlastní účet, čímž uvrhl mnoho lidí do finanční krize. Byl odsouzen za krádež a hacking, očekává 16 let ve věznici v Tokiu  se zvýšenou ostrahou.",
+        "photo1": "pics/illia1.jpg",
+        "photo2": "pics/illia2.jpg"
+    },
+    {
+        "id": "student4",
+        "name": "Marek",
+        "bio": "Marek Pyramidový Pán, původem z České republiky, získal pochybnou slávu jako tvůrce pyramidových schémat. Svými rafinovanými finančními triky obrátil svou pozornost k důchodcům přes internet, vytvářející sofistikované podvody. Po vydání zatykače se vyhnul spravedlnosti útěkem na Jamajku, kde nejenže pokračoval ve svých nekalých praktikách, ale zde ho vládní složky zadrželi a předali České republice. Momentálně dluží daně ve výši 43,6 milionu Kč.<br>Markovi hrozí odmětí svobody na dobu 258 let, nebo 20 let a splacení všech svých dluhů",
+        "photo1": "pics/marek1.jpg",
+        "photo2": "pics/marek2.jpg"
+    },
+    {
+        "id": "student5",
+        "name": "Matyáš",
+        "bio": "Bylo spuštěno pátrání po tomto nebezpečném jedinci z důvodu, že ukradl příliš mnoho propisek ostatním ve škole. Říká se že nyní vlastní pervitinové doupě a žije daleko odsud (Česká republika). Jeho nevlastní švagr patří mezi policisty, kteří tyto jedince chytají. Pátrání nebylo nikdy úspěšné, jelikož byl zahlednut na hranicích všech okolních států.                                       Proto doufáme že nám veřejnost v pátrání tohoto muže pomůže.",
+        "photo1": "pics/matyas1.jpg",
+        "photo2": "pics/matyas2.jpg"
+    },
+    {
+        "id": "student6",
+        "name": "Kuba",
+        "bio": "V opuštěném skladišti odpočívá tajemný kriminálník. Jeho tvář skrývá nebezpečný výraz pod stříbrnou maskou, a oděv z temné kůže doplňují stopy minulých činů. Kuba v minulosti působil jako člen mafie v Itálii. Jeho poslední slova při výslechu byly nebyl jsem v mafii. po tomto výslechu jel do věznice Alcatraz během této cesty však nedorazil do cíle. A nyní je hledán jako člen této mafiánské skupiny.",
+        "photo1": "pics/kuba1.jpg",
+        "photo2": "pics/kuba2.jpg"
+    },
+    {
+        "id": "student7",
+        "name": "Tom",
+        "bio": "Info o Markovi",
+        "photo1": "pics/tom1.jpg",
+        "photo2": "pics/tom2.jpg"
+    },
+    {
+        "id": "student8",
+        "name": "Jakub",
+        "bio": "Zákeřný rýbář, který nenechá na pokoji žádnou štiku. V roce 2016 se stal nejvyšším kancléřem rybářského svazu Čech a Moravy. Již dříve byl stíhán za vražedné činy pomocí štírů a jiných nebezpečných zvířat.<br>Jelikož se velice vyzná v IT oboru a programování, stál také za hacknutím pentagonu a společnosti NASA. Odsouzen byl na dobu neurčitou.",
+        "photo1": "pics/jakub1.jpg",
+        "photo2": "pics/jakub2.jpg"
+    },
+    {
+        "id": "student9",
+        "name": "Dan",
+        "bio": "Daniel byl zatčen na základě obvinění z  porušení českých daňových zákonů a povinnosti týkající se sociálního a zdravotního pojištění vůči českým úřadům. Toto obvinění vzniklo v důsledku jeho opakované praxe trávit většinu času mimo území České republiky, což mu umožnilo uniknout povinným odvodům. Lokální autority nyní tvrdí, že Daniel zanedbával své daňové povinnosti. I když rozsudek zatím není pravomocný, Daniel čelí možnému trestu až 15 let odnětí svobody",
+        "photo1": "pics/dan1.jpg",
+        "photo2": "pics/dan2.jpg"
+    } ,
+    {
+        "id": "student10",
+        "name": "Lukáš",
+        "bio": "2 týdny bránil milióny před finančákem.",
+        "photo1": "pics/lukas1.jpg",
+        "photo2": "pics/lukas2.jpg"
+    } 
+]

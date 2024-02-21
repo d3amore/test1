@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color:lightgrey;
+}
+h1{
+    font-family: helvetica, sans-serif;
+    line-height: 1.6;
+    color: rgb(62, 62, 62);
+}
+header{
+    text-align:center;
+    padding:20px;
+    background-color:#b4b4b4;
+    margin-left: 220px;
+}
+#group-photo{
+    
+    max-width:35%;
+    height:auto;
+    
+}
+#profile-photo {
+    max-width: 100%;
+    height: auto;
+}
+
+#student-menu a:hover {
+    color: #6d6d6d; 
+}
+
+#student-menu:hover {
+    color: #d5d5d5; 
+    
+}
+#student-menu {
+    width: 200px;
+    background-color: #333; 
+    padding: 20px; 
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: center; 
+
+}
+
+#student-menu h2 {
+    margin: 0; 
+}
+
+#student-menu a {
+    text-decoration: none;
+    color: #b7b7b7; 
+    font-family: 'Helvetica', sans-serif; 
+    font-size: 14px; 
+    padding: 5px 10px;
+}
+
+
+#section {
+    max-width: 10%;
+    height: auto;
+}
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    flex: 0 0 50%;
+}
+.profile-card p {
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    color: #232323; 
+    font-size: 14px; 
+}
+
+
+
+.profile-card img {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+}
+.profile-card h2 {
+    margin-top: 10px;
+    text-align: center;
+    color: #333; 
+    font-family: 'Helvetica', sans-serif;
+    font-size: 35px; 
+}
+
+.profile-card:hover{
+    background-color:grey
+}
+footer{
+    text-align:center;
+    padding:20px;
+    background-color: #f4f4f4;
+    margin-left: 220px;
+}
+main {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap to the next line */
+    justify-content: center;
+    margin-left: 220px;
+}
